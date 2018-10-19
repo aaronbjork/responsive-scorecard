@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            This is the new responsive scorecard.
+            This is the new responsive scorecard. It's now ready to use.
           </p>
           <a
             className="App-link"
