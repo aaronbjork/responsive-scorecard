@@ -22,5 +22,5 @@ steps:
     azureSubscription: 'dev-resources-connect'
     WebAppName: 'responsive-scorecard'
     Package: '$(System.DefaultWorkingDirectory)/build'
-    GenerateWebConfig: true
+    GenerateWebConfig: false
     WebConfigParameters: '-Handler iisnode -NodeStartFile app.js -appType node'
