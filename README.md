@@ -3,3 +3,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This project is a responsive design golf scorecard.
+
+Running live at: https://responsive-scorecard.azurewebsites.net/
